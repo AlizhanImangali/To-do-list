@@ -6,9 +6,8 @@ func (h *Handler) createItem(c *gin.Context) {
 }
 
 func (h *Handler) getAllItems(c *gin.Context) {
-
 }
-func (h *Handler) getItem(c *gin.Context) {
+func (h *Handler) getItemByID(c *gin.Context) {
 
 }
 func (h *Handler) updateItem(c *gin.Context) {
